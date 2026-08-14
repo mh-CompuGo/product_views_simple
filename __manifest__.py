@@ -1,7 +1,7 @@
 {
     "name": "Product Form Simple",
     "version": "1.0",
-    "depends": ["product", "website", "sale", "account", "stock"],
+    "depends": ["product", "website_sale", "sale", "account", "stock"],
     "data": [
         "views/product_form.xml",
         "views/product_kanban.xml",
