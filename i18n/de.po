@@ -1,0 +1,75 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* product_views_simple
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 19.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-09 13:00+0000\n"
+"PO-Revision-Date: 2026-10-09 13:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: product_views_simple
+#: model_terms:ir.ui.view,arch_db:product_views_simple.product_form_simple
+msgid "<span>m</span>"
+msgstr ""
+
+#. module: product_views_simple
+#: model_terms:ir.ui.view,arch_db:product_views_simple.product_template_website_form_custom
+msgid "Add Media"
+msgstr "Bilder hinzufügen"
+
+#. module: product_views_simple
+#: model:ir.model.fields,field_description:product_views_simple.field_product_template__display_name
+msgid "Display Name"
+msgstr "Anzeigename"
+
+#. module: product_views_simple
+#: model:ir.model.fields,field_description:product_views_simple.field_product_product__height
+#: model:ir.model.fields,field_description:product_views_simple.field_product_template__height
+msgid "Height"
+msgstr "Höhe"
+
+#. module: product_views_simple
+#: model:ir.model.fields,field_description:product_views_simple.field_product_template__id
+msgid "ID"
+msgstr ""
+
+#. module: product_views_simple
+#: model:ir.model.fields,field_description:product_views_simple.field_product_product__length
+#: model:ir.model.fields,field_description:product_views_simple.field_product_template__length
+msgid "Length"
+msgstr "Länge"
+
+#. module: product_views_simple
+#: model:ir.model.fields,field_description:product_views_simple.field_product_product__owner
+#: model:ir.model.fields,field_description:product_views_simple.field_product_template__owner
+msgid "Owner"
+msgstr "Eigentümer"
+
+#. module: product_views_simple
+#: model:ir.model,name:product_views_simple.model_product_template
+msgid "Product"
+msgstr "Produkt"
+
+#. module: product_views_simple
+#: model_terms:ir.ui.view,arch_db:product_views_simple.product_template_website_form_custom
+msgid "Product Images"
+msgstr "Produktbilder"
+
+#. module: product_views_simple
+#: model_terms:ir.ui.view,arch_db:product_views_simple.product_form_simple
+msgid "Volume"
+msgstr "Volumen"
+
+#. module: product_views_simple
+#: model:ir.model.fields,field_description:product_views_simple.field_product_product__width
+#: model:ir.model.fields,field_description:product_views_simple.field_product_template__width
+msgid "Width"
+msgstr "Breite"
